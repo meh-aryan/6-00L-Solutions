@@ -6,7 +6,7 @@ This repository contains my complete, well-documented solutions to problem sets 
 > ⚠️ **Note:** These solutions are for educational and reference purposes only. Please avoid copying them directly for academic submissions.  
 
 ### Refrence Links:
-*[MIT OCW 6-100L Course Site](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)*  
-*[OSSU 6-100L Course Site](https://cs.ossu.dev/coursepages/intro-cs/)*  
+[MIT OCW 6-100L Course Site](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)  
+[OSSU 6-100L Course Site](https://cs.ossu.dev/coursepages/intro-cs/)  
 
 ### Solution Links:
