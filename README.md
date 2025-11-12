@@ -1,2 +1,6 @@
-# 6-00L-Solutions
-This repository contains my solutions to problem sets, exercises, and assignments from MIT 6.00L, an introductory computer science course using Python. The goal of this repo is to document my learning process and provide clean, well-commented code for each problem.
+
+# MIT 6.00L: Introduction to Computer Science Using Python – Solutions
+
+This repository contains my complete, well-documented solutions to problem sets and programming assignments from ***MIT 6.00L*** *(Introduction to Computer Science Using Python)*.
+
+> ⚠️ **Note:** These solutions are for educational and reference purposes only. Please avoid copying them directly for academic submissions.
